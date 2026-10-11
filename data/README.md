@@ -6,15 +6,21 @@ Variables: `MLY-HTDD-NORMAL`, `MLY-CLDD-NORMAL` (65°F base), plus their measure
 
 Sources: [NOAA product](https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals), [monthly documentation](https://www.ncei.noaa.gov/pub/data/cdo/documentation/normals-monthly-1991-2020_documentation.pdf), [CSV format](https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/doc/Readme_By-Variable_By-Station_Normals_Files.txt). Each station's original download URL is retained in selected.json and the public export.
 
-From `web/`:
+The original site's audit notebooks and HTML output are preserved here for
+inspection. Their build scripts ran in the Lonta website workspace, which is
+not included in this repository. To reproduce this repository's comparison,
+run the following from its root:
 
 ```sh
-node scripts/seasonality-test.mjs
-python3 scripts/seasonality_audit.py
-python3 scripts/seasonality_chart.py
-python3 scripts/seasonality-notebook.py
+python3 analysis.py --no-chart
+python3 -m unittest discover -s tests -v
 ```
 
-The first two checks use existing Node dependencies and Python's standard library. Plotting uses Matplotlib. Notebook generation uses nbformat, nbclient, nbconvert and ipykernel. Validated environment: Python 3.12.8, Matplotlib 3.10.8, nbformat 5.11.1, nbclient 0.11.0, nbconvert 7.17.1, ipykernel 7.4.0. Source checks require no network access or credentials and never silently replace the archive.
+The comparison and its tests use Python's standard library. Plotting uses
+Matplotlib and numpy. Source checks require no network access or credentials
+and never silently replace the archive. See the root `VALIDATION.json` for the
+recorded comparison run, and the root README for optional figure regeneration.
 
-`lonta-hvac-seasonality-audit.ipynb` is executed top to bottom with saved outputs; the HTML companion is for readable inspection. Public export calculations live in `lib/research/seasonality.ts`. The plot is generated from the independent Python audit, not from a hand-entered table. The checks validate fidelity to the downloaded NOAA files, not NOAA's underlying climate calculations.
+`lonta-hvac-seasonality-audit.ipynb` has saved outputs from the site's audit;
+the HTML companion is for readable inspection. These checks validate fidelity
+to the downloaded NOAA files, not NOAA's underlying climate calculations.
