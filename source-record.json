@@ -1,0 +1,157 @@
+{
+  "reviewedAtUtc": "2026-10-11T04:49:48.566157+00:00",
+  "archiveRetrievedDate": "2026-10-09",
+  "normalPeriod": "1991-2020",
+  "primarySources": [
+    {
+      "url": "https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals",
+      "supports": "Nature and period of climate normals; not current weather forecasts."
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/cdo/documentation/normals-monthly-1991-2020_documentation.pdf",
+      "supports": "Monthly variables, 65 F bases, adjusted records, missing-year estimation, completeness and X flags."
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/doc/Readme_By-Variable_By-Station_Normals_Files.txt",
+      "supports": "CSV structure and decimal examples; source flags retained."
+    },
+    {
+      "url": "https://www.weather.gov/key/climate_heat_cool",
+      "supports": "Daily positive-part degree-day calculation and accumulation."
+    }
+  ],
+  "rawSources": [
+    {
+      "station": "USW00013874",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013874.csv",
+      "sha256": "247efb017818fa819a45c58d6d4e8c2f147e54149625e79ac8b6cd542248f099"
+    },
+    {
+      "station": "USW00013904",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013904.csv",
+      "sha256": "9542e39c60c86ea5c2792dae3217a56326dde8c2b3e69aebbfb7fe4884c93a92"
+    },
+    {
+      "station": "USW00014739",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00014739.csv",
+      "sha256": "1bb07c8fdfb70b874471ce3a1472d74ad244d573ce618c5412b361642da507a6"
+    },
+    {
+      "station": "USW00013881",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013881.csv",
+      "sha256": "2042ee86cd3efa7a842280e993dce18ecbb5027cbd5a93e1476c7ebd746d8243"
+    },
+    {
+      "station": "USW00094846",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094846.csv",
+      "sha256": "65c35b2681c4d4007d29814deff5ff04543939e8b3ad9d31f83b448a0ac46a9c"
+    },
+    {
+      "station": "USW00003927",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003927.csv",
+      "sha256": "e5ab98d398e277fee316b3d00a47215911a1a4b84642ad6a0f7300d410b15685"
+    },
+    {
+      "station": "USW00003017",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003017.csv",
+      "sha256": "81aad43010a38539d3a27d620e72ed61e8e4c0db93225eab8a1cf4f153b3d5e0"
+    },
+    {
+      "station": "USW00094847",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094847.csv",
+      "sha256": "f36331f13707c7b5bd6c59e35b4134ae25573feeac00289d6719f1f44f84fd4c"
+    },
+    {
+      "station": "USW00012960",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012960.csv",
+      "sha256": "d030f7473d2b928d5defbe2abfd0968c907c147640cc8e12b3bd01e43c9ec8c9"
+    },
+    {
+      "station": "USW00023169",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023169.csv",
+      "sha256": "d6b97c5ae5ac6f760fb5bb90c938cb7380939372076bca20d460de0d4cfe252e"
+    },
+    {
+      "station": "USW00023174",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023174.csv",
+      "sha256": "a5505d14850b573b76f49e26124fb5ba927d33317d47f2bc5ef2fbda81f544e3"
+    },
+    {
+      "station": "USW00012839",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012839.csv",
+      "sha256": "793dbb4f1c22bfec89ab919fee563e76f076cb77a3544d9a887cfa8b97b19794"
+    },
+    {
+      "station": "USW00014922",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00014922.csv",
+      "sha256": "3d63bc238ba4d217736055784883f992d3f12775fd02864de40dcf1f0bd4226b"
+    },
+    {
+      "station": "USW00013897",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013897.csv",
+      "sha256": "68545af68b823fab585b6b3b4e71470ee7e4f500e2277cf9aa86223b2761ae0d"
+    },
+    {
+      "station": "USW00094789",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094789.csv",
+      "sha256": "b3023322541e98ccc60d5aa0911b6ad98a9f50397bb61f6f7ab8b1a35170255f"
+    },
+    {
+      "station": "USW00012815",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012815.csv",
+      "sha256": "7866e68d46fa82657071d62b5927756fef079ce16c42792a91d13ef1f97f39c6"
+    },
+    {
+      "station": "USW00023183",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023183.csv",
+      "sha256": "4166c6f7ea99d97c881a2d0976cb9ad96d7dfc7f140bae2f98aa31b87ee4461a"
+    },
+    {
+      "station": "USW00024229",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00024229.csv",
+      "sha256": "a3fde40796d0e5378662b2bb36f2d31c77de39167141fa57c20aaf30af21043e"
+    },
+    {
+      "station": "USW00013722",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013722.csv",
+      "sha256": "bd3211fa1de50549be6e756fec6d961cd258adfc650a10f529d6a8109245adec"
+    },
+    {
+      "station": "USW00012921",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012921.csv",
+      "sha256": "1dbbb9f06aaa0b3000e8117d78947e38d5d6a4c6824d0010bb06092c21db37f5"
+    },
+    {
+      "station": "USW00023188",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023188.csv",
+      "sha256": "b00a496f0a4ae45c9e706fb2587c05f9903395af27e5da5fad2d04dbdd0391b0"
+    },
+    {
+      "station": "USW00023234",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023234.csv",
+      "sha256": "315cc30146c4e5a26ba6d3f1c58bb5980a8309084906f95f80eead27e4418f2e"
+    },
+    {
+      "station": "USW00024233",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00024233.csv",
+      "sha256": "f0c57d0023b3eb8f3688df745fe7ea4483e9cdbae25ae7bb8f9fe523aab6a095"
+    },
+    {
+      "station": "USW00012842",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012842.csv",
+      "sha256": "ef10812e0e912c0d61f24ddbbd48e35aca4c41f3a72020e89bb756dd98851b94"
+    }
+  ],
+  "sample": "Pre-existing purposive selection of 24 airport stations; 288 station-months, not independent national observations.",
+  "comparison": "Published NOAA degree-day normals versus a deliberately information-losing proxy from rounded monthly average temperature.",
+  "focalSelection": "Four illustrative warm-side/cool-side station-months near the 65 F threshold; not a random or ranked subset.",
+  "publicationStatus": "prepared_locally_not_submitted_or_published",
+  "publicUrl": null,
+  "paidSpend": 0,
+  "interpretationLimits": [
+    "NOAA normals include adjusted temperatures and missing-year estimation; matching counts do not prove identical underlying daily records.",
+    "The monthly-mean proxy is deliberately information-losing; it is not an alternative NOAA degree-day method.",
+    "Both directions in a monthly normal do not establish their simultaneous occurrence on any day, year or building.",
+    "Degree-days measure temperature exposure, not energy, leads, revenue, equipment failures or budget requirements."
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "mode": "Expert Human preset; Codex sentence review, not human authorship verification",
+  "sentenceReview": "No confirmed filler or unsupported result claim. Scientific scope, units, source provenance, reuse and limits retained.",
+  "scanners": {
+    "banned_phrase_scan.py": {
+      "exitCode": 0,
+      "result": {
+        "total_violations": 0,
+        "by_severity": {
+          "hard": 0,
+          "soft": 0
+        },
+        "by_category": {},
+        "violations": []
+      }
+    },
+    "structure_scan.py": {
+      "exitCode": 0,
+      "result": {
+        "flags": [],
+        "flagged": {},
+        "metrics": {
+          "sentence_burstiness": 0.929,
+          "summary_sandwich": 0.0,
+          "paragraph_cv": 0.414,
+          "sentence_mean_len": 16.3,
+          "triad_density": 0.0,
+          "em_dash_per_1k": 0.0,
+          "bold_colon_listicle_count": 0,
+          "one_line_staccato_share": 0.071,
+          "connective_paragraph_openers": 0,
+          "every_template_openers": 0,
+          "signpost_density": 0.0,
+          "opener_unique_ratio": 0.767,
+          "top_opener_share": 0.1,
+          "max_consecutive_opener": 1,
+          "participial_closer_share": 0.0,
+          "conclusion_coda": false
+        },
+        "genre": "docs",
+        "prose_sentences": 39,
+        "prose_paragraphs": 14
+      }
+    },
+    "silhouette_scan.py": {
+      "exitCode": 1,
+      "result": {
+        "genre": "docs",
+        "prose_paragraphs": 14,
+        "flags": [
+          {
+            "metric": "silhouette_penalty",
+            "value": 1.918,
+            "threshold": ">= 1.0",
+            "severity": "soft",
+            "detail": "The document's idea arrangement matches a templated AI silhouette (preview-then-fulfill, rotating scaffold openers, recap loop).",
+            "suggestion": "Rearrange around the actual argument instead of a symmetric outline; cut previews and the closing recap."
+          },
+          {
+            "metric": "heading_preview",
+            "value": 0.25,
+            "threshold": "human fence 0.2 (weight 1.0)",
+            "severity": "soft",
+            "detail": "heading_preview at 0.25 clears the human upper fence 0.2.",
+            "suggestion": "Headings restate the intro's outline; let sections carry new ground."
+          }
+        ],
+        "flagged": {
+          "silhouette_penalty": true,
+          "heading_preview": true
+        },
+        "metrics": {
+          "scaffold_opener_share": 0.0,
+          "role_entropy_bits": -0.0,
+          "heading_preview": 0.25,
+          "preview_fulfillment": 0.167,
+          "callback_content": 0.429
+        },
+        "contributions": {
+          "scaffold_opener_share": 0.0,
+          "role_entropy_bits": 0.0,
+          "heading_preview": 1.25,
+          "preview_fulfillment": 0.668,
+          "callback_content": 0.0
+        },
+        "penalty": 1.918
+      }
+    },
+    "readability_metrics.py": {
+      "exitCode": 1,
+      "result": {
+        "flesch_kincaid_grade": 13.8,
+        "flesch_reading_ease": 29.8,
+        "sentence_count": 36,
+        "word_count": 675,
+        "avg_sentence_length": 18.8,
+        "sentence_length_variance": 287.4,
+        "min_sentence_length": 5,
+        "max_sentence_length": 91,
+        "consecutive_similar_length": 2,
+        "word_repetition_score": 36.0,
+        "top_repeated_words": [
+          [
+            "noaa",
+            13
+          ],
+          [
+            "data",
+            10
+          ],
+          [
+            "published",
+            9
+          ],
+          [
+            "normals",
+            9
+          ],
+          [
+            "lonta",
+            8
+          ],
+          [
+            "monthly",
+            7
+          ],
+          [
+            "https",
+            7
+          ],
+          [
+            "degree-day",
+            5
+          ],
+          [
+            "mean",
+            5
+          ],
+          [
+            "analysis",
+            5
+          ]
+        ],
+        "paragraph_count": 20,
+        "avg_paragraph_length": 33.8,
+        "flags": [
+          "High reading level (13.8 grade)",
+          "High word repetition (36.0%)"
+        ]
+      }
+    }
+  },
+  "protectedSoftFlags": [
+    "README headings organize code/data documentation; repeated primary-source terminology and URLs are required, not evidence of authorship."
+  ]
+}

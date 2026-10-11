@@ -1,0 +1,306 @@
+{
+  "executedAtUtc": "2026-10-11T06:15:47.967173+00:00",
+  "python": "3.12.8",
+  "status": "checks_passed",
+  "rawHashesMatched": 24,
+  "stationMonths": 288,
+  "variableValues": 864,
+  "duplicateStationMonths": 0,
+  "missingValues": 0,
+  "sourceUnits": "Decimal degrees Fahrenheit and Fahrenheit degree-days; no /10 scaling",
+  "bothPublishedDirectionsPositive": 221,
+  "bothDirectionsAtLeast10FDays": 109,
+  "roundedNonzeroValues": 13,
+  "contributingYearRange": [
+    22,
+    29
+  ],
+  "stationMonthsWithMatchingYearCounts": 288,
+  "flags": [
+    {
+      "metric": "cooling",
+      "completeness": "R",
+      "measurement": "",
+      "count": 25
+    },
+    {
+      "metric": "cooling",
+      "completeness": "S",
+      "measurement": "",
+      "count": 255
+    },
+    {
+      "metric": "cooling",
+      "completeness": "S",
+      "measurement": "X",
+      "count": 8
+    },
+    {
+      "metric": "heating",
+      "completeness": "R",
+      "measurement": "",
+      "count": 25
+    },
+    {
+      "metric": "heating",
+      "completeness": "S",
+      "measurement": "",
+      "count": 258
+    },
+    {
+      "metric": "heating",
+      "completeness": "S",
+      "measurement": "X",
+      "count": 5
+    },
+    {
+      "metric": "temperature",
+      "completeness": "R",
+      "measurement": "",
+      "count": 25
+    },
+    {
+      "metric": "temperature",
+      "completeness": "S",
+      "measurement": "",
+      "count": 263
+    }
+  ],
+  "focalExamples": [
+    {
+      "city": "Tampa",
+      "station": "USW00012842",
+      "station_name": "TAMPA INTL AP, FL US",
+      "month": 12,
+      "normal_period": "1991-2020",
+      "base_F": 65,
+      "temperature_F": 64.9,
+      "temperature_measurement_flag": "",
+      "temperature_completeness_flag": "S",
+      "temperature_years": 29,
+      "heating_F_days": 104.8,
+      "heating_measurement_flag": "",
+      "heating_completeness_flag": "S",
+      "heating_years": 29,
+      "cooling_F_days": 101.7,
+      "cooling_measurement_flag": "",
+      "cooling_completeness_flag": "S",
+      "cooling_years": 29,
+      "proxy_heating_F_days": 3.1,
+      "proxy_cooling_F_days": 0.0,
+      "proxy_month_days": 31.0,
+      "source_url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012842.csv",
+      "source_sha256": "ef10812e0e912c0d61f24ddbbd48e35aca4c41f3a72020e89bb756dd98851b94",
+      "year_counts_match": true
+    },
+    {
+      "city": "Denver",
+      "station": "USW00003017",
+      "station_name": "DENVER INTL AP, CO US",
+      "month": 9,
+      "normal_period": "1991-2020",
+      "base_F": 65,
+      "temperature_F": 64.8,
+      "temperature_measurement_flag": "",
+      "temperature_completeness_flag": "S",
+      "temperature_years": 25,
+      "heating_F_days": 105.3,
+      "heating_measurement_flag": "",
+      "heating_completeness_flag": "S",
+      "heating_years": 25,
+      "cooling_F_days": 99.2,
+      "cooling_measurement_flag": "",
+      "cooling_completeness_flag": "S",
+      "cooling_years": 25,
+      "proxy_heating_F_days": 6.0,
+      "proxy_cooling_F_days": 0.0,
+      "proxy_month_days": 30.0,
+      "source_url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003017.csv",
+      "source_sha256": "81aad43010a38539d3a27d620e72ed61e8e4c0db93225eab8a1cf4f153b3d5e0",
+      "year_counts_match": true
+    },
+    {
+      "city": "Chicago",
+      "station": "USW00094846",
+      "station_name": "CHICAGO OHARE INTL AP, IL US",
+      "month": 9,
+      "normal_period": "1991-2020",
+      "base_F": 65,
+      "temperature_F": 66.3,
+      "temperature_measurement_flag": "",
+      "temperature_completeness_flag": "S",
+      "temperature_years": 28,
+      "heating_F_days": 77.2,
+      "heating_measurement_flag": "",
+      "heating_completeness_flag": "S",
+      "heating_years": 28,
+      "cooling_F_days": 116.1,
+      "cooling_measurement_flag": "",
+      "cooling_completeness_flag": "S",
+      "cooling_years": 28,
+      "proxy_heating_F_days": 0.0,
+      "proxy_cooling_F_days": 39.0,
+      "proxy_month_days": 30.0,
+      "source_url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094846.csv",
+      "source_sha256": "65c35b2681c4d4007d29814deff5ff04543939e8b3ad9d31f83b448a0ac46a9c",
+      "year_counts_match": true
+    },
+    {
+      "city": "Phoenix",
+      "station": "USW00023183",
+      "station_name": "PHOENIX SKY HARBOR INTL AP, AZ US",
+      "month": 11,
+      "normal_period": "1991-2020",
+      "base_F": 65,
+      "temperature_F": 65.1,
+      "temperature_measurement_flag": "",
+      "temperature_completeness_flag": "S",
+      "temperature_years": 27,
+      "heating_F_days": 85.0,
+      "heating_measurement_flag": "",
+      "heating_completeness_flag": "S",
+      "heating_years": 27,
+      "cooling_F_days": 88.1,
+      "cooling_measurement_flag": "",
+      "cooling_completeness_flag": "S",
+      "cooling_years": 27,
+      "proxy_heating_F_days": 0.0,
+      "proxy_cooling_F_days": 3.0,
+      "proxy_month_days": 30.0,
+      "source_url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023183.csv",
+      "source_sha256": "4166c6f7ea99d97c881a2d0976cb9ad96d7dfc7f140bae2f98aa31b87ee4461a",
+      "year_counts_match": true
+    }
+  ],
+  "rawSourceFiles": [
+    {
+      "station": "USW00013874",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013874.csv",
+      "sha256": "247efb017818fa819a45c58d6d4e8c2f147e54149625e79ac8b6cd542248f099"
+    },
+    {
+      "station": "USW00013904",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013904.csv",
+      "sha256": "9542e39c60c86ea5c2792dae3217a56326dde8c2b3e69aebbfb7fe4884c93a92"
+    },
+    {
+      "station": "USW00014739",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00014739.csv",
+      "sha256": "1bb07c8fdfb70b874471ce3a1472d74ad244d573ce618c5412b361642da507a6"
+    },
+    {
+      "station": "USW00013881",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013881.csv",
+      "sha256": "2042ee86cd3efa7a842280e993dce18ecbb5027cbd5a93e1476c7ebd746d8243"
+    },
+    {
+      "station": "USW00094846",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094846.csv",
+      "sha256": "65c35b2681c4d4007d29814deff5ff04543939e8b3ad9d31f83b448a0ac46a9c"
+    },
+    {
+      "station": "USW00003927",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003927.csv",
+      "sha256": "e5ab98d398e277fee316b3d00a47215911a1a4b84642ad6a0f7300d410b15685"
+    },
+    {
+      "station": "USW00003017",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003017.csv",
+      "sha256": "81aad43010a38539d3a27d620e72ed61e8e4c0db93225eab8a1cf4f153b3d5e0"
+    },
+    {
+      "station": "USW00094847",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094847.csv",
+      "sha256": "f36331f13707c7b5bd6c59e35b4134ae25573feeac00289d6719f1f44f84fd4c"
+    },
+    {
+      "station": "USW00012960",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012960.csv",
+      "sha256": "d030f7473d2b928d5defbe2abfd0968c907c147640cc8e12b3bd01e43c9ec8c9"
+    },
+    {
+      "station": "USW00023169",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023169.csv",
+      "sha256": "d6b97c5ae5ac6f760fb5bb90c938cb7380939372076bca20d460de0d4cfe252e"
+    },
+    {
+      "station": "USW00023174",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023174.csv",
+      "sha256": "a5505d14850b573b76f49e26124fb5ba927d33317d47f2bc5ef2fbda81f544e3"
+    },
+    {
+      "station": "USW00012839",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012839.csv",
+      "sha256": "793dbb4f1c22bfec89ab919fee563e76f076cb77a3544d9a887cfa8b97b19794"
+    },
+    {
+      "station": "USW00014922",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00014922.csv",
+      "sha256": "3d63bc238ba4d217736055784883f992d3f12775fd02864de40dcf1f0bd4226b"
+    },
+    {
+      "station": "USW00013897",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013897.csv",
+      "sha256": "68545af68b823fab585b6b3b4e71470ee7e4f500e2277cf9aa86223b2761ae0d"
+    },
+    {
+      "station": "USW00094789",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094789.csv",
+      "sha256": "b3023322541e98ccc60d5aa0911b6ad98a9f50397bb61f6f7ab8b1a35170255f"
+    },
+    {
+      "station": "USW00012815",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012815.csv",
+      "sha256": "7866e68d46fa82657071d62b5927756fef079ce16c42792a91d13ef1f97f39c6"
+    },
+    {
+      "station": "USW00023183",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023183.csv",
+      "sha256": "4166c6f7ea99d97c881a2d0976cb9ad96d7dfc7f140bae2f98aa31b87ee4461a"
+    },
+    {
+      "station": "USW00024229",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00024229.csv",
+      "sha256": "a3fde40796d0e5378662b2bb36f2d31c77de39167141fa57c20aaf30af21043e"
+    },
+    {
+      "station": "USW00013722",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013722.csv",
+      "sha256": "bd3211fa1de50549be6e756fec6d961cd258adfc650a10f529d6a8109245adec"
+    },
+    {
+      "station": "USW00012921",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012921.csv",
+      "sha256": "1dbbb9f06aaa0b3000e8117d78947e38d5d6a4c6824d0010bb06092c21db37f5"
+    },
+    {
+      "station": "USW00023188",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023188.csv",
+      "sha256": "b00a496f0a4ae45c9e706fb2587c05f9903395af27e5da5fad2d04dbdd0391b0"
+    },
+    {
+      "station": "USW00023234",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023234.csv",
+      "sha256": "315cc30146c4e5a26ba6d3f1c58bb5980a8309084906f95f80eead27e4418f2e"
+    },
+    {
+      "station": "USW00024233",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00024233.csv",
+      "sha256": "f0c57d0023b3eb8f3688df745fe7ea4483e9cdbae25ae7bb8f9fe523aab6a095"
+    },
+    {
+      "station": "USW00012842",
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012842.csv",
+      "sha256": "ef10812e0e912c0d61f24ddbbd48e35aca4c41f3a72020e89bb756dd98851b94"
+    }
+  ],
+  "scope": "Purposive 24-airport selection, twelve repeated months each; not a national random sample.",
+  "interpretation": "Method contrast, not a percentage error estimate for HVAC jobs or a reconstruction of daily history.",
+  "proxy": "days * max(65 - monthly mean, 0) and days * max(monthly mean - 65, 0). February uses 28 + 8/30 days.",
+  "limits": [
+    "NOAA normals include adjusted temperatures and missing-year estimation; matching counts do not prove identical underlying daily records.",
+    "The monthly-mean proxy is deliberately information-losing; it is not an alternative NOAA degree-day method.",
+    "Both directions in a monthly normal do not establish their simultaneous occurrence on any day, year or building.",
+    "Degree-days measure temperature exposure, not energy, leads, revenue, equipment failures or budget requirements."
+  ]
+}

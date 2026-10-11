@@ -1,0 +1,4665 @@
+{
+  "period": "1991–2020",
+  "baseF": 65,
+  "unit": "°F-days",
+  "retrieved": "2026-10-09",
+  "dataset": "NOAA NCEI U.S. Climate Normals, monthly 1991–2020",
+  "cities": [
+    {
+      "id": "atlanta",
+      "city": "Atlanta",
+      "state": "GA",
+      "station": "USW00013874",
+      "stationName": "ATLANTA HARTSFIELD INTL AP, GA US",
+      "latitude": 33.63,
+      "longitude": -84.4417,
+      "elevationMeters": 307.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013874.csv",
+      "sourceSha256": "247efb017818fa819a45c58d6d4e8c2f147e54149625e79ac8b6cd542248f099",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 626.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 462.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 2.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 308.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 17.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 119.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 64.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 21.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 214.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 1.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 386.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 494.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 469.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 5.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 302.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 98.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 87.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 335.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 10.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 550.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 1.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "austin",
+      "city": "Austin",
+      "state": "TX",
+      "station": "USW00013904",
+      "stationName": "AUSTIN BERGSTROM AP, TX US",
+      "latitude": 30.1831,
+      "longitude": -97.68,
+      "elevationMeters": 146.3,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013904.csv",
+      "sourceSha256": "9542e39c60c86ea5c2792dae3217a56326dde8c2b3e69aebbfb7fe4884c93a92",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 469.5,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 7.7,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 321.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 20.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 183.7,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 61.3,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 52.1,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 145.1,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 3.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 344.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 517.4,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 606.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 613.7,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 1.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 422.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 44.4,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          },
+          "cooling": {
+            "value": 194.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 24
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 219.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 48.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 423.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 25
+          },
+          "cooling": {
+            "value": 14.1,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "boston",
+      "city": "Boston",
+      "state": "MA",
+      "station": "USW00014739",
+      "stationName": "BOSTON LOGAN INTL AP, MA US",
+      "latitude": 42.3606,
+      "longitude": -71.0106,
+      "elevationMeters": 3.7,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00014739.csv",
+      "sourceSha256": "1bb07c8fdfb70b874471ce3a1472d74ad244d573ce618c5412b361642da507a6",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 1086.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 929.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 828.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 496.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 4.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 233.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 29.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 49.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 138.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 4.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 284.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 4.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 245.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 71.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 90.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 325.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 9.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 607.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 908.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "station": "USW00013881",
+      "stationName": "CHARLOTTE DOUGLAS AP, NC US",
+      "latitude": 35.2236,
+      "longitude": -80.9553,
+      "elevationMeters": 221.9,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013881.csv",
+      "sourceSha256": "2042ee86cd3efa7a842280e993dce18ecbb5027cbd5a93e1476c7ebd746d8243",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 711.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 540.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 1.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 391.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 10.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 162.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 47.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 39.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 164.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 1.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 348.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 468.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 423.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 13.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 244.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 151.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 53.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 415.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 5.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 630.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 1.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "station": "USW00094846",
+      "stationName": "CHICAGO OHARE INTL AP, IL US",
+      "latitude": 41.995,
+      "longitude": -87.9336,
+      "elevationMeters": 200.6,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094846.csv",
+      "sourceSha256": "65c35b2681c4d4007d29814deff5ff04543939e8b3ad9d31f83b448a0ac46a9c",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 1233.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 1014.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 808.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 2.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 468.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 7.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 198.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 60.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 31.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 199.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 1.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 325.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 4.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 276.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 77.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 116.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 354.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 15.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 712.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 1069.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "dallas-fort-worth",
+      "city": "Dallas–Fort Worth",
+      "state": "TX",
+      "station": "USW00003927",
+      "stationName": "DALLAS FT WORTH AP, TX US",
+      "latitude": 32.8978,
+      "longitude": -97.0189,
+      "elevationMeters": 170.7,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003927.csv",
+      "sourceSha256": "e5ab98d398e277fee316b3d00a47215911a1a4b84642ad6a0f7300d410b15685",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 582.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 2.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 413.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 7.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 246.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 35.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 82.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 101.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 9.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 290.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 505.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 641.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 643.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 3.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 409.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 69.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 154.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 285.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 27.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 528.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 4.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "denver",
+      "city": "Denver",
+      "state": "CO",
+      "station": "USW00003017",
+      "stationName": "DENVER INTL AP, CO US",
+      "latitude": 39.8328,
+      "longitude": -104.6575,
+      "elevationMeters": 1650.2,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00003017.csv",
+      "sourceSha256": "81aad43010a38539d3a27d620e72ed61e8e4c0db93225eab8a1cf4f153b3d5e0",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 1033.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 904.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 725.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 517.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 1.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 261.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 25.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 51.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 147.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 3.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 22
+          },
+          "cooling": {
+            "value": 315.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 22
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 9.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 254.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 105.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 99.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 435.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 6.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 766.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 1047.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "detroit",
+      "city": "Detroit",
+      "state": "MI",
+      "station": "USW00094847",
+      "stationName": "DETROIT METRO AP, MI US",
+      "latitude": 42.2314,
+      "longitude": -83.3308,
+      "elevationMeters": 192.3,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094847.csv",
+      "sourceSha256": "f36331f13707c7b5bd6c59e35b4134ae25573feeac00289d6719f1f44f84fd4c",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 1216.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 1035.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 860.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 0.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 487.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 4.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 197.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 50.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 28.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 176.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 2.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 282.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 6.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 232.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 91.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 89.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 381.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 9.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 712.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 1046.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "houston",
+      "city": "Houston",
+      "state": "TX",
+      "station": "USW00012960",
+      "stationName": "HOUSTON INTERCONT AP, TX US",
+      "latitude": 29.98,
+      "longitude": -95.36,
+      "elevationMeters": 29.0,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012960.csv",
+      "sourceSha256": "d030f7473d2b928d5defbe2abfd0968c907c147640cc8e12b3bd01e43c9ec8c9",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 365.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 17.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 236.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 31.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 122.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 85.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 30.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 179.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 1.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 384.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 539.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 623.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 624.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 465.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 26.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 238.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 158.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 69.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 324.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 28.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "las-vegas",
+      "city": "Las Vegas",
+      "state": "NV",
+      "station": "USW00023169",
+      "stationName": "LAS VEGAS MCCARRAN AP, NV US",
+      "latitude": 36.0719,
+      "longitude": -115.1633,
+      "elevationMeters": 649.5,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023169.csv",
+      "sourceSha256": "d6b97c5ae5ac6f760fb5bb90c938cb7380939372076bca20d460de0d4cfe252e",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 480.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 323.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 1.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 166.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 36.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 54.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 135.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 8.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 389.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 678.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 875.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 827.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 559.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 32.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 199.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 250.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 16.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 519.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "los-angeles",
+      "city": "Los Angeles",
+      "state": "CA",
+      "station": "USW00023174",
+      "stationName": "LOS ANGELES INTL AP, CA US",
+      "latitude": 33.9381,
+      "longitude": -118.3889,
+      "elevationMeters": 29.6,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023174.csv",
+      "sourceSha256": "a5505d14850b573b76f49e26124fb5ba927d33317d47f2bc5ef2fbda81f544e3",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 227.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 5.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 207.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 7.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 189.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 8.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 132.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 17.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 69.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 24.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 13.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 56.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 1.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 142.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 1.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 179.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 2.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 155.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 26.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 91.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 111.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 30.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 232.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 2.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "miami",
+      "city": "Miami",
+      "state": "FL",
+      "station": "USW00012839",
+      "stationName": "MIAMI INTL AP, FL US",
+      "latitude": 25.7906,
+      "longitude": -80.3164,
+      "elevationMeters": 8.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012839.csv",
+      "sourceSha256": "793dbb4f1c22bfec89ab919fee563e76f076cb77a3544d9a887cfa8b97b19794",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 43.7,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 25
+          },
+          "cooling": {
+            "value": 155.5,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 25
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 22.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 181.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 8.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 259.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 0.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 351.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 466.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 534.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 590.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 595.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 538.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 0.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 466.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 3.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 297.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 25.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 219.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "minneapolis",
+      "city": "Minneapolis",
+      "state": "MN",
+      "station": "USW00014922",
+      "stationName": "MINNEAPOLIS/ST PAUL AP, MN US",
+      "latitude": 44.8831,
+      "longitude": -93.2289,
+      "elevationMeters": 265.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00014922.csv",
+      "sourceSha256": "3d63bc238ba4d217736055784883f992d3f12775fd02864de40dcf1f0bd4226b",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 1512.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 1243.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 983.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 542.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 3.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 213.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 44.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 34.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 175.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 4.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 294.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 10.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 219.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 127.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 84.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 488.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 8.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 906.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 1332.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "nashville",
+      "city": "Nashville",
+      "state": "TN",
+      "station": "USW00013897",
+      "stationName": "NASHVILLE INTL AP, TN US",
+      "latitude": 36.1189,
+      "longitude": -86.6892,
+      "elevationMeters": 182.9,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013897.csv",
+      "sourceSha256": "68545af68b823fab585b6b3b4e71470ee7e4f500e2277cf9aa86223b2761ae0d",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 787.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 606.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 1.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 430.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 10.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 179.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 52.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 41.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 176.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 1.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 362.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 486.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 455.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 14.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 257.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 164.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 62.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 446.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 6.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 690.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 1.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "city": "New York",
+      "state": "NY",
+      "station": "USW00094789",
+      "stationName": "NEW YORK JFK INTL AP, NY US",
+      "latitude": 40.6386,
+      "longitude": -73.7622,
+      "elevationMeters": 3.4,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00094789.csv",
+      "sourceSha256": "b3023322541e98ccc60d5aa0911b6ad98a9f50397bb61f6f7ab8b1a35170255f",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 996.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 852.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 739.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 426.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 2.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 171.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 30.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 20.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 176.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 345.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 310.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 33.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 135.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 255.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 15.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 546.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 829.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "orlando",
+      "city": "Orlando",
+      "state": "FL",
+      "station": "USW00012815",
+      "stationName": "ORLANDO INTL AP, FL US",
+      "latitude": 28.4339,
+      "longitude": -81.325,
+      "elevationMeters": 27.4,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012815.csv",
+      "sourceSha256": "7866e68d46fa82657071d62b5927756fef079ce16c42792a91d13ef1f97f39c6",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 180.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 45.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 104.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 66.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 54.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 127.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 9.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 224.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 0.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 383.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 485.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 545.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 547.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 479.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 5.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 329.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 42.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 140.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 127.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 76.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "phoenix",
+      "city": "Phoenix",
+      "state": "AZ",
+      "station": "USW00023183",
+      "stationName": "PHOENIX SKY HARBOR INTL AP, AZ US",
+      "latitude": 33.4278,
+      "longitude": -112.0039,
+      "elevationMeters": 337.4,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023183.csv",
+      "sourceSha256": "4166c6f7ea99d97c881a2d0976cb9ad96d7dfc7f140bae2f98aa31b87ee4461a",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 256.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 2.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 159.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 16.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 64.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 105.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 14.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 258.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 0.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 527.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 791.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 945.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 909.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 727.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 5.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 390.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 85.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 88.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 288.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 1.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "portland",
+      "city": "Portland",
+      "state": "OR",
+      "station": "USW00024229",
+      "stationName": "PORTLAND INTL AP, OR US",
+      "latitude": 45.5908,
+      "longitude": -122.6003,
+      "elevationMeters": 5.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00024229.csv",
+      "sourceSha256": "a3fde40796d0e5378662b2bb36f2d31c77de39167141fa57c20aaf30af21043e",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 717.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 583.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 519.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 366.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 2.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 196.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 20.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 80.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 56.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 10.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 171.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 7.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 181.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 60.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 72.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 296.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 3.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 538.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 726.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "raleigh",
+      "city": "Raleigh",
+      "state": "NC",
+      "station": "USW00013722",
+      "stationName": "RALEIGH DURHAM INTL AP, NC US",
+      "latitude": 35.8922,
+      "longitude": -78.7819,
+      "elevationMeters": 126.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00013722.csv",
+      "sourceSha256": "bd3211fa1de50549be6e756fec6d961cd258adfc650a10f529d6a8109245adec",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 718.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 0.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 561.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 1.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 420.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 11.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 180.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 54.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 46.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 166.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 3.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 354.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 480.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 427.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 14.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 242.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 159.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 56.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 411.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 7.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 636.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 2.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "san-antonio",
+      "city": "San Antonio",
+      "state": "TX",
+      "station": "USW00012921",
+      "stationName": "SAN ANTONIO INTL AP, TX US",
+      "latitude": 29.5442,
+      "longitude": -98.4839,
+      "elevationMeters": 240.5,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012921.csv",
+      "sourceSha256": "1dbbb9f06aaa0b3000e8117d78947e38d5d6a4c6824d0010bb06092c21db37f5",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 405.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 7.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 265.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 22.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 139.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 71.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 35.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 165.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 2.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 359.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 526.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 613.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 633.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 1.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 446.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 34.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 229.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 185.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 58.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 369.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 14.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "san-diego",
+      "city": "San Diego",
+      "state": "CA",
+      "station": "USW00023188",
+      "stationName": "SAN DIEGO LINDBERGH FLD, CA US",
+      "latitude": 32.7336,
+      "longitude": -117.1831,
+      "elevationMeters": 4.6,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023188.csv",
+      "sourceSha256": "b00a496f0a4ae45c9e706fb2587c05f9903395af27e5da5fad2d04dbdd0391b0",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 209.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 3.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 172.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 4.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 141.5,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 9.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 84.7,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 23.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 44.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 22
+          },
+          "cooling": {
+            "value": 37.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 22
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 10.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 22
+          },
+          "cooling": {
+            "value": 74.7,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 22
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.6,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 177.3,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.1,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 229.5,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.4,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 201.3,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 11.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          },
+          "cooling": {
+            "value": 105.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 24
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 93.0,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 25.5,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 221.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          },
+          "cooling": {
+            "value": 1.2,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "san-francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "station": "USW00023234",
+      "stationName": "SAN FRANCISCO INTL AP, CA US",
+      "latitude": 37.6197,
+      "longitude": -122.3647,
+      "elevationMeters": 2.4,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00023234.csv",
+      "sourceSha256": "315cc30146c4e5a26ba6d3f1c58bb5980a8309084906f95f80eead27e4418f2e",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 426.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 323.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 295.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 1.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 234.3,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 25
+          },
+          "cooling": {
+            "value": 4.8,
+            "measurementFlag": null,
+            "completenessFlag": "R",
+            "years": 25
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 170.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 13.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 96.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 23.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 58.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 25.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 44.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 40.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 45.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 56.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 99.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 32.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 259.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 1.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 421.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "seattle",
+      "city": "Seattle",
+      "state": "WA",
+      "station": "USW00024233",
+      "stationName": "SEATTLE TACOMA INTL AP, WA US",
+      "latitude": 47.4444,
+      "longitude": -122.3139,
+      "elevationMeters": 112.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00024233.csv",
+      "sourceSha256": "f0c57d0023b3eb8f3688df745fe7ea4483e9cdbae25ae7bb8f9fe523aab6a095",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 686.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 588.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 556.6,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 411.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 0.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 241.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 9.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 117.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 29.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 31.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 96.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 23.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          },
+          "cooling": {
+            "value": 98.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 25
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 102.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          },
+          "cooling": {
+            "value": 30.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 26
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 349.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.5,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 555.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 711.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          },
+          "cooling": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "tampa",
+      "city": "Tampa",
+      "state": "FL",
+      "station": "USW00012842",
+      "stationName": "TAMPA INTL AP, FL US",
+      "latitude": 27.9619,
+      "longitude": -82.5403,
+      "elevationMeters": 5.8,
+      "sourceUrl": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00012842.csv",
+      "sourceSha256": "ef10812e0e912c0d61f24ddbbd48e35aca4c41f3a72020e89bb756dd98851b94",
+      "months": [
+        {
+          "month": 1,
+          "heating": {
+            "value": 152.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 60.9,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 2,
+          "heating": {
+            "value": 88.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 81.1,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 3,
+          "heating": {
+            "value": 44.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 154.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 4,
+          "heating": {
+            "value": 6.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 273.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 5,
+          "heating": {
+            "value": 0.3,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 448.2,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 6,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 538.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 7,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 582.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 8,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 589.0,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 9,
+          "heating": {
+            "value": 0.0,
+            "measurementFlag": "X",
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 532.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 10,
+          "heating": {
+            "value": 3.4,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          },
+          "cooling": {
+            "value": 387.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 28
+          }
+        },
+        {
+          "month": 11,
+          "heating": {
+            "value": 33.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 177.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        },
+        {
+          "month": 12,
+          "heating": {
+            "value": 104.8,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          },
+          "cooling": {
+            "value": 101.7,
+            "measurementFlag": null,
+            "completenessFlag": "S",
+            "years": 29
+          }
+        }
+      ]
+    }
+  ]
+}

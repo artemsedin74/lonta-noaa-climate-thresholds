@@ -1,0 +1,19 @@
+{
+  "checkedAtUtc": "2026-10-11T15:27:00.730645+00:00",
+  "sourceBundleSha256": "1129b4ad193472a5be3ca5a3f5023df650eb585cbea778210d651f1f3265285a",
+  "python": "3.12.8",
+  "analysisExitCode": 0,
+  "unitTestExitCode": 0,
+  "unitTestsPassed": 6,
+  "rawHashesMatched": 24,
+  "stationMonths": 288,
+  "variableValues": 864,
+  "csvBytesReproducedExactly": true,
+  "analysisFieldsReproducedExceptTimeAndPython": true,
+  "networkCallsInAnalysis": 0,
+  "newThirdPartyPackagesInstalled": 0,
+  "runner": "Codex",
+  "independentHumanReviewClaimed": false,
+  "testsOutput": "test_decimal_units_against_published_focal_examples (test_reproducibility.ReproducibilityTests.test_decimal_units_against_published_focal_examples) ... ok\ntest_duplicate_month_rejected_even_with_updated_manifest_hash (test_reproducibility.ReproducibilityTests.test_duplicate_month_rejected_even_with_updated_manifest_hash) ... ok\ntest_february_preserves_eight_leap_days (test_reproducibility.ReproducibilityTests.test_february_preserves_eight_leap_days) ... ok\ntest_invented_daily_example_is_not_threshold_of_average (test_reproducibility.ReproducibilityTests.test_invented_daily_example_is_not_threshold_of_average) ... ok\ntest_modified_source_bytes_are_rejected (test_reproducibility.ReproducibilityTests.test_modified_source_bytes_are_rejected) ... ok\ntest_preserved_sources_and_selection (test_reproducibility.ReproducibilityTests.test_preserved_sources_and_selection) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.276s\n\nOK\n",
+  "testCorrection": "Decimal division by 30 is repeating; February mean compared with independent calendar sum, preserving the exact 848-day check."
+}
